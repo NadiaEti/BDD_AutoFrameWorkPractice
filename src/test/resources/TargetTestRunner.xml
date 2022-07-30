@@ -14,12 +14,9 @@
     <test name="Target Web Automation">
 
         <classes>
-            <!--            <class name="com.target.testPages.HomePageTest.HomePageTest"/>-->
-            <!--            <class name="com.target.testPages.HomePageTest.HomePageTest01"/>-->
-            <!--            <class name="com.target.testPages.HomePageTest.HomePageTest02"/>-->
-            <class name="com.target.testPages.HomePageTest.HomePageNewTest"/>
-            <!--            <class name="com.target.testPages.HomePageTest.TargetHomePageTest"/>-->
-            <!--        <class name="com.target.testPages.RegistrationPageTest.RegistrationPageTest"/>-->
+
+<!--            <class name="com.target.testPages.HomePageTest.HomePageNewTest"/>-->
+
 
 
         </classes>
